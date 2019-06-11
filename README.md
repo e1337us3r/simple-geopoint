@@ -8,7 +8,7 @@ You have a point in DD format X (latitude: 39.91234,longitude: 40.12345). You wa
 
 #### Solution:
 
-```
+```java
 
         GeoPoint initialPoint = new GeoPoint(39.91234,40.12345);
 
@@ -22,7 +22,7 @@ You have a point in DD format X (latitude: 39.91234,longitude: 40.12345). You wa
 
 #### Solution:
 
-```
+```java
 
         GeoPoint initialPoint = new GeoPoint(39.91234,40.12345);
 
